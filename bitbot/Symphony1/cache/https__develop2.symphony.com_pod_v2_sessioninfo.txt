@@ -1,0 +1,1 @@
+{"username": "bot.user21", "company": "Symphony Partner Development", "emailAddress": "bot.user21@example.com", "displayName": "bot.user21", "avatars": [{"size": "original", "url": "https://s3.amazonaws.com/user-pics-demo/small/symphony_small.png"}, {"size": "small", "url": "https://s3.amazonaws.com/user-pics-demo/creepy/symphony_creepy.png"}], "id": 349026222342332}
